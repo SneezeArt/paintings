@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "domains": {
     "en": {
       "root": "https://gallerix.org",
@@ -24,7 +24,7 @@
     "force": "0",
     "version": "1.0"
   },
-  "review": "1",
+  "review": "0",
   "excludes": {
     "titles": [
       "Vincent van Gogh",
